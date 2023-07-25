@@ -1,4 +1,4 @@
-![debian-logo](./images/debian-logo.png)
+![Debian_logo-01](./images/Debian_logo-01.png)
 
 # - OS Debian 12.
 
