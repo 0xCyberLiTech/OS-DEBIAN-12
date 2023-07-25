@@ -4,7 +4,7 @@
 
 👋 Sommaire des sujet traités :
 
-- [Sujet abordé - NTPsec](installer-et-configurer-NTPsec.md)
+- [Sujet abordé - NTPsec](https://github.com/0xCyberLiTech/NTPsec)
 - [Sujet abordé - Apache2.](https://github.com/0xCyberLiTech/Apache2)
 - [Sujet abordé - Docker.](https://github.com/0xCyberLiTech/Docker)
 - [Sujet abordé - Nagios.](https://github.com/0xCyberLiTech/Nagios)
