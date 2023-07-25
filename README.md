@@ -1,6 +1,6 @@
 ![debian-logo](./images/debian-logo.png)
 
-# - A. Fondamentaux sur la configuration des serveurs Virtuels.
+# - OS Debian 12.
 
 👋 Sommaire des sujet traités :
 
