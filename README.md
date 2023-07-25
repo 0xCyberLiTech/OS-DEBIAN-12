@@ -1,4 +1,4 @@
-![Debian-logo](./images/Debian-logo.png)
+![debian-logo](./images/debian-logo.png)
 
 # - A. Fondamentaux sur la configuration des serveurs Virtuels.
 
