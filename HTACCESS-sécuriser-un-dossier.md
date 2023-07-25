@@ -2,7 +2,7 @@
 
 # - Protéger l'accès à dossier ex : /var/www/html/
 
-Créer un fichier caché nommé .htaccess dans /var/www/html.
+Créer un fichier caché nommé (.htaccess) dans /var/www/html.
 
 touch /var/www/html/.htaccess
 
