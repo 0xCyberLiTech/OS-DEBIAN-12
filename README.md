@@ -1,6 +1,6 @@
 ![Debian_logo-01](./images/Debian_logo-01.png)
 
-## - OS Debian 12.
+## OS Debian 12.
 
 👋 Sommaire des sujet traités :
 
