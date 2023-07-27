@@ -11,5 +11,6 @@
 - 05 - [Sujet abordé - Zabbix.](https://github.com/0xCyberLiTech/Zabbix)
 - 06 - [Sujet abordé - Smokeping.](https://github.com/0xCyberLiTech/Smokeping)
 - 07 - [Sujet abordé - OpenVAS.](https://github.com/0xCyberLiTech/OpenVAS)
-- 08 - [Sujet abordé - DNS.](https://github.com/0xCyberLiTech/DNS)
-
+- 08 - [Sujet abordé - UFW.]()
+- 09 - [Sujet abordé - Fail2ban.]()
+- 10 - [Sujet abordé - NMAP.]()
