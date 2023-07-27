@@ -2,7 +2,7 @@
 
 ## OS Debian 12.
 
-👋 Sommaire des sujet traités :
+👋 Sommaire des sujets traités :
 
 - 01 - [Sujet abordé - NTPsec](https://github.com/0xCyberLiTech/NTPsec)
 - 02 - [Sujet abordé - Apache2.](https://github.com/0xCyberLiTech/Apache2)
