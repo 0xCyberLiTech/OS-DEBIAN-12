@@ -14,5 +14,5 @@
 - 08 - [Sujet abordé - UFW.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/UFW-installation-et-configuration.md)
 - 09 - [Sujet abordé - Fail2ban.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/FAIL2BAN-installation-et-configuration.md)
 - 10 - [Sujet abordé - DNS.](https://github.com/0xCyberLiTech/DNS)
-- 11 - [Sujet abordé - SSH comment se connecter avec des clés ?](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/Comment-se-connecter-%C3%A0-SSH-avec-des-cl%C3%A9s.md)
+- 11 - [Sujet abordé - SSH comment se connecter avec des clés ?](SSH-comment-se-connecter-avec-des-clés.md)
 - 12 - [Sujet abordé - Détecter les rootkits présents dans votre système Linux.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/ROOTKIT-scanner.md)
