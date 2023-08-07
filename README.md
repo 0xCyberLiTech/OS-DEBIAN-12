@@ -16,4 +16,4 @@
 - 10 - [Sujet abordé - DNS.](https://github.com/0xCyberLiTech/DNS)
 - 11 - [Sujet abordé - SSH comment se connecter avec des clés ?](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/SSH-comment-se-connecter-avec-des-cl%C3%A9s.md)
 - 12 - [Sujet abordé - Détecter les rootkits présents dans votre système Linux.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/ROOTKIT-scanner.md)
-- 13 - [Sujet abordé - Rsyslog](Collectez-des-logs-avec-rsyslog-sous-Linux.md)
+- 13 - [Sujet abordé - Rsyslog](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/Collectez-des-logs-avec-rsyslog-sous-Linux.md)
