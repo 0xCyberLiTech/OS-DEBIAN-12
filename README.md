@@ -19,4 +19,4 @@
 - 13 - [Sujet abordé - Rsyslog.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/Collectez-des-logs-avec-rsyslog-sous-Linux.md)
 - 14 - [Sujet abordé - TARPIT mise en place.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/TARPIT-mise-en-place.md)
 - 15 - [Sujet abordé - PROXY REVERSE, PROXY MANDATAIRE & PROXY TRANSPARENT.](https://github.com/0xCyberLiTech/Cybersecurite/blob/main/PROXY-REVERSE-MANDATAIRE-TRANSPARENT.md)
-- 16 - [Sujet abordé - Désactiver le mode hybernation](.md)
+- 16 - [Sujet abordé - Astuces](.md)
